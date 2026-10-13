@@ -10,6 +10,7 @@ Sve značajne izmene igre Kontrolor beleže se u ovom fajlu. Brojevi verzija pra
 - Slika za deljenje na društvenim mrežama (`og-image.png`, 1200 × 630) i Open Graph i Twitter meta tagovi.
 
 ### Promenjeno
+- Naslov za deljenje (`og:title`, `twitter:title`): „Kontrolor – znaš li kako treba da postupiš?“.
 - Slika za deljenje se u `og:image` i `twitter:image` navodi punom adresom (https://kontrolor.netlify.app/og-image.png), a dodat je i `og:url`.
 - Meta opis stranice: „Član si biračkog odbora na dan izbora. Kroz 21 situaciju, od primopredaje materijala do zapisnika, odluči šta je ispravno i saznaj zašto.“
 
