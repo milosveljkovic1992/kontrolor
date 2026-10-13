@@ -5,10 +5,12 @@ Sve značajne izmene igre Kontrolor beleže se u ovom fajlu. Brojevi verzija pra
 ## [Neobjavljeno]
 
 ### Dodato
+- Link „← Sve igre“ iznad zaglavlja, ka krovnoj aplikaciji Izborni dan (https://izborni-dan.netlify.app/).
 - Ikonica u tabu pregledača (favicon): glasačka kutija sa listićem, ugrađena u `index.html` kao SVG.
 - Slika za deljenje na društvenim mrežama (`og-image.png`, 1200 × 630) i Open Graph i Twitter meta tagovi.
 
 ### Promenjeno
+- Slika za deljenje se u `og:image` i `twitter:image` navodi punom adresom (https://kontrolor.netlify.app/og-image.png), a dodat je i `og:url`.
 - Meta opis stranice: „Član si biračkog odbora na dan izbora. Kroz 21 situaciju, od primopredaje materijala do zapisnika, odluči šta je ispravno i saznaj zašto.“
 
 ## [1.0.0] - 2026-10-13
