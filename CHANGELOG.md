@@ -6,6 +6,10 @@ Sve značajne izmene igre Kontrolor beleže se u ovom fajlu. Brojevi verzija pra
 
 ### Dodato
 - Ikonica u tabu pregledača (favicon): glasačka kutija sa listićem, ugrađena u `index.html` kao SVG.
+- Slika za deljenje na društvenim mrežama (`og-image.png`, 1200 × 630) i Open Graph i Twitter meta tagovi.
+
+### Promenjeno
+- Meta opis stranice: „Član si biračkog odbora na dan izbora. Kroz 21 situaciju, od primopredaje materijala do zapisnika, odluči šta je ispravno i saznaj zašto.“
 
 ## [1.0.0] - 2026-10-13
 
